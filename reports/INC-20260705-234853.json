@@ -1,0 +1,11 @@
+{
+    "ticket_id": "INC-20260705-234853",
+    "timestamp": "2026-07-05T23:48:53.968392",
+    "indicator_type": "ip",
+    "indicator": "45.131.214.85",
+    "severity": "CRÍTICA",
+    "detecciones_maliciosas": 11,
+    "detecciones_sospechosas": 2,
+    "estado": "ABIERTO",
+    "accion_recomendada": "Bloquear IP y aislar host"
+}
